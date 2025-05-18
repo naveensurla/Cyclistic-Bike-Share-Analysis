@@ -48,10 +48,10 @@ csv_folder = r"C:\Users\DELL\OneDrive\Desktop\Google Data Analytics Certificate\
 
 # MySQL database connection setup
 database = 'cyclistic_data'
-user = 'root'
-password = 'root'
+user = 'user'
+password = 'password'
 host = 'localhost'
-port = 3306
+port = port
 
 # Create the SQLAlchemy engine
 engine = create_engine(f'mysql+pymysql://{user}:{password}@{host}:{port}/{database}')
@@ -155,7 +155,6 @@ Using Power BI, I created interactive visuals and dashboards to explore trends s
 These insights can be used by Cyclistic to develop targeted marketing campaigns aimed at converting casual users into loyal annual members.
 
 
-
 ---
 
 ### 📁 Project Folder Structure
@@ -166,3 +165,12 @@ These insights can be used by Cyclistic to develop targeted marketing campaigns 
 ┣ 📁 sql/                  ← SQL scripts for transformation
 ┣ 📊 PowerBI_Report.pbx    ← Power BI Dashboard
 ┗ 📄 README.md             ← Project summary & documentation
+
+---
+## **About Me**
+I am an aspiring Data Analyst looking for a career transition, with a background as an Engineer in Project Sales. Passionate about transforming raw data into meaningful insights, I aim to leverage analytical skills to drive data-driven decision-making.  
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/naveen-surla-587565242/) or explore more projects on [GitHub](https://github.com/naveensurla).
+
+## 🙌 Connect & Feedback
+If you like this project or have suggestions, feel free to connect with me or leave feedback!
