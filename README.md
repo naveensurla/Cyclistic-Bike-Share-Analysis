@@ -166,11 +166,8 @@ These insights can be used by Cyclistic to develop targeted marketing campaigns 
 ┣ 📊 PowerBI_Report.pbx    ← Power BI Dashboard
 ┗ 📄 README.md             ← Project summary & documentation
 
----
-## **About Me**
+---## **About Me**
 I am an aspiring Data Analyst looking for a career transition, with a background as an Engineer in Project Sales. Passionate about transforming raw data into meaningful insights, I aim to leverage analytical skills to drive data-driven decision-making.  
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/naveen-surla-587565242/) or explore more projects on [GitHub](https://github.com/naveensurla).
 
-## 🙌 Connect & Feedback
-If you like this project or have suggestions, feel free to connect with me or leave feedback!
