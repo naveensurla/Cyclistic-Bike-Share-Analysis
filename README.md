@@ -38,7 +38,7 @@ I downloaded the latest 12 months of Cyclistic ride data and saved all `.csv` fi
 
 To manage the dataset efficiently, I wrote a Python script to import all the `.csv` files directly into MySQL tables. Below is the script I created:
 
-```python
+python
 import os
 import pandas as pd
 from sqlalchemy import create_engine
