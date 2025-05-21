@@ -188,13 +188,6 @@ cyclistic-capstone/
 └── README.md            # Project documentation
 ```
 
-```
-
-## 🔗 PBIX File Download  
-[📂 Download the PBIX File](https://drive.google.com/file/d/106LaFsynHQkziELXobbD7F4dHiY7YvA8/view?usp=drive_link)
-
----
-
 ---
 
 ## 👤 About Me
