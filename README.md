@@ -142,7 +142,7 @@ ORDER BY started_at;
 I connected Power BI directly to the cleaned MySQL dataset using:
 
 - **Server:** localhost  
-- **Port:** 3306  
+- **Port:** port
 - **Database:** `cyclistic_data`  
 - **Authentication:** Basic (root user)
 
