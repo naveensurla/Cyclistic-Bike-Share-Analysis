@@ -3,8 +3,8 @@
 
 ---
 
-- [Uncovering Rider Behavior - Cyclistic Bike-Share Trends](https://app.powerbi.com/view?r=eyJrIjoiM2Y5MWY4ZjItZWE0ZC00Yzg3LWE5ZWMtZWI5ZTJhNmFlNTNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
----
+[**Uncovering Rider Behavior - Cyclistic Bike-Share Trends Live Report**](https://app.powerbi.com/view?r=eyJrIjoiM2Y5MWY4ZjItZWE0ZC00Yzg3LWE5ZWMtZWI5ZTJhNmFlNTNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 ## 📌 Project Overview
 
