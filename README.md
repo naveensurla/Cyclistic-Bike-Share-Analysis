@@ -1,5 +1,5 @@
 # 🚲 Cyclistic Bike-Share Capstone Project  
-**Google Data Analytics Professional Certificate**
+**Google Data Analytics Professional Certificate case study project**
 
 ---
 
