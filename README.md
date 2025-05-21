@@ -3,6 +3,11 @@
 
 ---
 
+- [Uncovering Rider Behavior - Cyclistic Bike-Share Trends](https://app.powerbi.com/view?r=eyJrIjoiM2Y5MWY4ZjItZWE0ZC00Yzg3LWE5ZWMtZWI5ZTJhNmFlNTNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [](https://app.powerbi.com/view?r=eyJrIjoiM2Y5MWY4ZjItZWE0ZC00Yzg3LWE5ZWMtZWI5ZTJhNmFlNTNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+---
+
 ## 📌 Project Overview
 
 As part of the **Google Data Analytics Professional Certificate**, I completed this end-to-end capstone project to analyze **12 months of ride data** from the Cyclistic bike-share program. The primary goal was to explore usage patterns between **annual members** and **casual riders**, and generate actionable insights to support **marketing strategies** that encourage casual riders to convert to members.
@@ -158,7 +163,17 @@ Using Power BI, I built interactive dashboards to explore:
 - 🗓️ **Day/Time Trends**: Peak usage days, weekdays vs weekends  
 - ⏱️ **Ride Duration Patterns**: Average trip times by user type  
 - 📍 **Station Hotspots**: Most frequently used start/end stations  
-- 🔁 **Behavioral Patterns**: Membership tendencies over time  
+- 🔁 **Behavioral Patterns**: Membership tendencies over time
+
+
+# <a name="User Overview & Ride Patterns"></a>**User Overview & Ride Patterns:**
+![Dashboard](https://github.com/naveensurla/Cyclistic-Bike-Share-Analysis/blob/54f92798ef3cfa3edf41474c82fba8104e02e1e8/Dashboard/User%20Overview%20%26%20Ride%20Patterns.jpg)
+
+# <a name="Ride Trends & Bike Preference"></a>**Ride Trends & Bike Preference:**
+![Dashboard](https://github.com/naveensurla/Cyclistic-Bike-Share-Analysis/blob/54f92798ef3cfa3edf41474c82fba8104e02e1e8/Dashboard/Ride%20Trends%20%26%20Bike%20Preference.jpg)
+
+# <a name="Summary of Analysis"></a>**Summary of Analysis:**
+![Dashboard](https://github.com/naveensurla/Cyclistic-Bike-Share-Analysis/blob/54f92798ef3cfa3edf41474c82fba8104e02e1e8/Dashboard/Summary%20of%20Analysis.jpg)
 
 📈 These insights are valuable for Cyclistic’s marketing team to develop **targeted campaigns** that convert **casual riders into annual members**.
 
